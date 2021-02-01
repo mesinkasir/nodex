@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# NODE-X
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/nodex/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+New modern cms blog develope using node js and express js
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple and easy for learn node
 
-### Markdown
+Design using bootstrap and dark mode
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+INstallation and documentation :
+[click here](https://www.hockeycomputindo.com/2021/02/node-x-node-express-cms-blog-new-and.html)
 
-```markdown
-Syntax highlighted code block
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%286%29.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
+Home page area
 
-- Bulleted
-- List
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%285%29.png/max/max/1)
 
-1. Numbered
-2. List
+About Page
 
-**Bold** and _Italic_ and `Code` text
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%284%29.png/max/max/1)
 
-[Link](url) and ![Image](src)
-```
+Info page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%283%29.png/max/max/1)
 
-### Jekyll Themes
+Contact Page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/nodex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%282%29.png/max/max/1)
 
-### Support or Contact
+Create a new content article for blog
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![node cms blog source code](https://a.fsdn.com/con/app/proj/nodeblog/screenshots/node%20express%20blog%20content%20management%20system%20cms%20%281%29.png/max/max/1)
+
+Blog list page
+
+
+How to install ?? cek documenation and download source code [click here](https://www.hockeycomputindo.com/2021/02/node-x-node-express-cms-blog-new-and.html)
+
+[Demo video](https://youtu.be/_UzT6cQsfUo)
