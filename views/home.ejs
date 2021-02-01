@@ -1,0 +1,21 @@
+<%- include("partials/header"); -%>
+<%- include("partials/navbar"); -%>
+<div class="text-center">
+    <img class="img-fluid" src="https://1.bp.blogspot.com/-M-5GCi6zD6A/YBhBRyOD26I/AAAAAAAAMpk/attrnU70_90b-bz4WNd5oWjAa6Ubd96FQCLcBGAsYHQ/s288/coollogo_com-114421985.png"/>
+	<h1><strong>Node Express JS Blogs</strong></h1>
+    <p> <%= homeContent %> </p>
+</div>
+<hr/>
+  <%  posts.forEach(function(post){ %>
+
+    <h1><%=post.title%></h1>
+    <p>
+    <%=post.content.substring(0, 120) + " ..."%><br/><br/>
+    <a class="btn btn-info" href="/posts/<%=post.title%>">Read More →</a>
+    </p>
+
+<hr/>
+    <% }) %>
+
+
+<%- include("partials/footer"); -%>
